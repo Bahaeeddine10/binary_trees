@@ -1,10 +1,3 @@
-114-bst_remove.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 bst_t *inorder_successor(bst_t *root);

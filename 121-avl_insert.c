@@ -1,10 +1,3 @@
-121-avl_insert.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 size_t height(const binary_tree_t *tree);

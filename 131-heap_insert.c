@@ -1,10 +1,3 @@
-131-heap_insert.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

@@ -1,10 +1,3 @@
-123-avl_remove.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

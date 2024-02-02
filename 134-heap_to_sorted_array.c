@@ -1,10 +1,3 @@
-134-heap_to_sorted_array.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

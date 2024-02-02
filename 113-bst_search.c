@@ -1,10 +1,3 @@
-113-bst_search.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

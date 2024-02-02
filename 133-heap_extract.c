@@ -1,10 +1,3 @@
-133-heap_extract.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 #include <stdlib.h>
 

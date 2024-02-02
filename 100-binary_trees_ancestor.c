@@ -1,10 +1,3 @@
-100-binary_trees_ancestor.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

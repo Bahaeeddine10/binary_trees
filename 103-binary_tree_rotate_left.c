@@ -1,10 +1,3 @@
-103-binary_tree_rotate_left.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

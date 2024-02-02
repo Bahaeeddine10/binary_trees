@@ -1,10 +1,3 @@
-130-binary_tree_is_heap.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 #include "102-binary_tree_is_complete.c"
 /**
