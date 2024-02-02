@@ -1,10 +1,3 @@
-16-binary_tree_is_perfect.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 unsigned char is_leaf(const binary_tree_t *node);

@@ -1,10 +1,3 @@
-3-binary_tree_delete.c
-
-Détails
-
-Activité
-Impossible de charger les détails. Réessayez.
-
 #include "binary_trees.h"
 
 /**

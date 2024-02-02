@@ -1,10 +1,3 @@
-10-binary_tree_depth.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

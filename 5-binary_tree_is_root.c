@@ -1,10 +1,3 @@
-5-binary_tree_is_root.c
-
-Détails
-
-Activité
-Impossible de charger les détails. Réessayez.
-
 #include "binary_trees.h"
 
 /**

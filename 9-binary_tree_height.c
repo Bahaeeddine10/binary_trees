@@ -1,10 +1,3 @@
-9-binary_tree_height.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

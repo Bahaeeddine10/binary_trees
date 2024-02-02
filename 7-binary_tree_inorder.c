@@ -1,10 +1,3 @@
-7-binary_tree_inorder.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

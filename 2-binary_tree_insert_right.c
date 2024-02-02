@@ -1,10 +1,3 @@
-2-binary_tree_insert_right.c
-
-Détails
-
-Activité
-Impossible de charger les détails. Réessayez.
-
 #include "binary_trees.h"
 
 /**

@@ -1,10 +1,3 @@
-14-binary_tree_balance.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

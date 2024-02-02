@@ -1,10 +1,3 @@
-8-binary_tree_postorder.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

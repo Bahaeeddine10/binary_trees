@@ -1,10 +1,3 @@
-15-binary_tree_is_full.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**

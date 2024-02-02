@@ -1,10 +1,3 @@
-13-binary_tree_nodes.c
-
-Détails
-
-Activité
-
-
 #include "binary_trees.h"
 
 /**
