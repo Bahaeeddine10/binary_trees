@@ -1,10 +1,3 @@
-0-binary_tree_node.c
-
-Détails
-
-Activité
-Impossible de charger les détails. Réessayez.
-
 #include "binary_trees.h"
 
 /**
